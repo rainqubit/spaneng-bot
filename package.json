@@ -1,0 +1,14 @@
+{
+  "name": "cleverbot-io-test",
+  "version": "1.0.0",
+  "description": "bot test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reienan",
+  "license": "ISC",
+  "dependencies": {
+    "cleverbot.io": "^1.0.4"
+  }
+}
